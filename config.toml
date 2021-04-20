@@ -1,4 +1,4 @@
-baseurl = "https://challenge.adi.com"
+baseurl = "http://labtst1.web.app"
 theme = "casper-two"
 languageCode = "en-US"
 #thats for commenting
@@ -29,7 +29,7 @@ paginate = 6
   author = "Adi"
   authorAvatar = "profile.jpeg"
   authorLocation = "Melboure, AUS"
-  authorWebsite = "https://blog.challenge.adi.com"
+  authorWebsite = "http://labtst1.web.app"
   authorDescription = "Cloud engineer, DevOps"
 
   pageNotFoundTitle = "404 - Page not found"
